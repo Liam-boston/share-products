@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShareProducts</string>
+    <string name="name">Name:&#160;</string>
+    <string name="description">Description:&#160;</string>
+    <string name="seller">Sold by:&#160;</string>
+    <string name="price">Price:&#160;</string>
+    <string name="bargain_outlet">Ollie\'s Bargain Outlet</string>
+    <string name="back_button">Back</string>
+    <string name="share_button">Share</string>
+</resources>
